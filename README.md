@@ -44,9 +44,9 @@ Estudante de Engenharia de Software na Fametro. Também construo projetos sob o 
 |---|---|---|
 | [**teamflow**](https://github.com/jrabeloneto/teamflow) | Gestão de equipes fullstack com autenticação stateless e API documentada | Java 17 · Spring Boot 3 · JWT · Angular 17 |
 | [**sora-tenkuu**](https://github.com/jrabeloneto/sora-tenkuu) | SORA / 天空 — site experiencial em estética Y2K / futurismo japonês | React 19 · R3F · GSAP · Lenis |
-| [**traxus**](https://github.com/jrabeloneto/traxus) | Interface 3D de "operação de campo" com pós-processamento | R3F · Three.js · GSAP |
+| [**traxus**](https://github.com/jrabeloneto/traxus) · [live](https://traxus-steel.vercel.app) | Interface 3D de "operação de campo" com pós-processamento | R3F · Three.js · GSAP |
 | [**humaniq-site**](https://github.com/jrabeloneto/humaniq-site) | Site institucional para consultoria de RH de Manaus (cliente real) | Next.js 16 · Tailwind v4 · Motion |
-| [**a-copista**](https://github.com/jrabeloneto/a-copista) | A COPISTA — revista editorial digital de mão única | React · GSAP · Lenis |
+| [**a-copista**](https://github.com/jrabeloneto/a-copista) · [live](https://a-copista.vercel.app) | A COPISTA — revista editorial digital de mão única | React · GSAP · Lenis |
 | [**farmacia-pro**](https://github.com/jrabeloneto/farmacia-pro) | Sistema de gestão para farmácias com PDV, estoque e permissões por cargo | React · Zustand · TanStack Table |
 | [**eventhub**](https://github.com/jrabeloneto/eventhub) | Plataforma de gestão de eventos com dashboard analítico | Angular 17 · Material · Chart.js |
 
