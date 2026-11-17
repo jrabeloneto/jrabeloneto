@@ -2,58 +2,56 @@
 
 # João Rabelo
 
-**Software Lead · Fullstack & AI**
+**Co-founder & Gerente de Desenvolvimento na AIKO** · Fullstack · WebGL/3D
 
-*Arquiteto de sistemas e líder técnico. Código como linguagem, times como obra.*
+Manaus, AM — Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237c5cbf?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jrabeloneto)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%232a2630?style=flat-square&logo=vercel&logoColor=c4a8e8)](https://github.com/jrabeloneto)
-[![Email](https://img.shields.io/badge/Email-%232a2630?style=flat-square&logo=gmail&logoColor=c4a8e8)](mailto:jrabeloneto@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://joao-portifolio-rho.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrabeloneto/)
+[![Email](https://img.shields.io/badge/Email-1f1f1f?style=flat-square&logo=gmail&logoColor=white)](mailto:jrabeloneto2@gmail.com)
 
 </div>
 
 ---
 
-### `whoami`
+### Sobre
 
-Software Lead com foco em engenharia fullstack e inteligência artificial.
-Atuo na interseção entre execução técnica e liderança de times — desde arquitetura de sistemas até gestão de pessoas e entregas.
+Engenheiro de software e co-fundador da **AIKO**, consultoria de software onde lidero o desenvolvimento — da arquitetura à entrega. Transito entre sistemas de negócio (APIs, autenticação, painéis de gestão) e experiências web imersivas com **Three.js / React Three Fiber**, motion e direção de arte.
 
-- Lidero times de desenvolvimento de produto
-- Defino padrões técnicos, code review e roadmap de engenharia
-  - Atuo com LLMs, automações e sistemas orientados a dados
-   
-    ### Stack
+Estudante de Engenharia de Software na Fametro. Também construo projetos sob o selo **AI.OTIK**.
 
-    **Frontend** · React · Next.js · TypeScript · Angular *(em evolução)*
+- Lidero o time técnico da AIKO: arquitetura, padrões de código, code review e roadmap
+- Entrego sites e sistemas para clientes reais em Manaus e região
+- Exploro WebGL, shaders e animação como linguagem de interface
 
-    **Backend** · Node.js · Express · Python · Java *(em evolução)*
+---
 
-    **AI & Dados** · LLMs · RAG · PostgreSQL · SQL
+### Stack
 
-    **Infra** · Docker · Cloud · CI/CD
+| Área | Tecnologias |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS · Angular |
+| **3D & Motion** | Three.js · React Three Fiber · GSAP · Lenis · Framer Motion |
+| **Backend** | Node.js · Java 17 · Spring Boot 3 · Spring Security + JWT |
+| **Dados** | PostgreSQL · Spring Data JPA · H2 |
+| **Entrega** | Vite · Vercel · Git · Docker |
 
-    **Liderança** · Arquitetura · Code Review · Mentoria · Roadmap técnico
+---
 
-    ---
+### Projetos em destaque
 
-    ### Em destaque
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**teamflow**](https://github.com/jrabeloneto/teamflow) | Gestão de equipes fullstack com autenticação stateless e API documentada | Java 17 · Spring Boot 3 · JWT · Angular 17 |
+| [**sora-tenkuu**](https://github.com/jrabeloneto/sora-tenkuu) | SORA / 天空 — site experiencial em estética Y2K / futurismo japonês | React 19 · R3F · GSAP · Lenis |
+| [**traxus**](https://github.com/jrabeloneto/traxus) | Interface 3D de "operação de campo" com pós-processamento | R3F · Three.js · GSAP |
+| [**humaniq-site**](https://github.com/jrabeloneto/humaniq-site) | Site institucional para consultoria de RH de Manaus (cliente real) | Next.js 16 · Tailwind v4 · Motion |
+| [**a-copista**](https://github.com/jrabeloneto/a-copista) | A COPISTA — revista editorial digital de mão única | React · GSAP · Lenis |
+| [**farmacia-pro**](https://github.com/jrabeloneto/farmacia-pro) | Sistema de gestão para farmácias com PDV, estoque e permissões por cargo | React · Zustand · TanStack Table |
+| [**eventhub**](https://github.com/jrabeloneto/eventhub) | Plataforma de gestão de eventos com dashboard analítico | Angular 17 · Material · Chart.js |
 
-    | Projeto | Descrição | Tech |
-    |---|---|---|
-    | [teamflow](https://github.com/jrabeloneto/teamflow) | Sistema de Gerenciamento de Equipes com Java 17, Spring Boot 3, Angular 17 e JWT | TypeScript |
-    | [joao-portifolio](https://github.com/jrabeloneto/joao-portifolio) | Site portfolio pessoal com animações suaves e design responsivo | JavaScript |
-    | [bradesco-app-redesign](https://github.com/jrabeloneto/bradesco-app-redesign) | Redesign completo do aplicativo mobile Bradesco com foco em UX/UI moderno | JavaScript |
-    | [techstore-ecommerce](https://github.com/jrabeloneto/techstore-ecommerce) | E-commerce moderno com carrinho, autenticação e design responsivo | JavaScript |
+---
 
-    ---
-
-    ### GitHub Stats
-
-    ![Stats](https://github-readme-stats.vercel.app/api?username=jrabeloneto&show_icons=true&theme=transparent&title_color=c4a8e8&icon_color=9a8aaa&text_color=ede8f5&border_color=3d2d6e)
-
-    ---
-
-    <div align="center">
-    <sub><i>"Liderar é criar condições para que outros construam o impossível."</i>i></sub>sub>
-    </div>div></i></sub>
+<div align="center">
+<sub>Aberto a projetos, parcerias e boas conversas sobre engenharia e interface.</sub>
+</div>
