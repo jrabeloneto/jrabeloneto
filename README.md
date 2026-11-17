@@ -10,6 +10,10 @@ Manaus, AM — Brasil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrabeloneto/)
 [![Email](https://img.shields.io/badge/Email-1f1f1f?style=flat-square&logo=gmail&logoColor=white)](mailto:jrabeloneto2@gmail.com)
 
+<br>
+
+<img src="./assets/ascii-wanderer.svg" width="100%" alt="Andarilho encapuzado em ASCII com espada cravada e faixa vermelha ao vento">
+
 </div>
 
 ---
